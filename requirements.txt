@@ -6,3 +6,4 @@ matplotlib
 ipykernel
 ipywidgets
 tqdm
+imbalanced-learn
